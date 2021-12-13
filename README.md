@@ -1,4 +1,4 @@
-# Code environment setup for my macOS machine 
+## Code environment setup for my macOS machine 
 
 ## Screenshots:
 ![Neofetch output](./screenshots/1.png)
